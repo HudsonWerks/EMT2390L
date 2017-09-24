@@ -7,7 +7,7 @@
 TO="email@address.com"
 FROM="alerts@address.com"
 
-#The file that contains the current pubic IP
+#The file that contains the current public IP
 EXT_IP_FILE="/path/to/ipaddressfile"
 
 #Get the current public IP from whatsmyip.com
